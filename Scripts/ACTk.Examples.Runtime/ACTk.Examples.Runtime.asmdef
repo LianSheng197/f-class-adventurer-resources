@@ -1,0 +1,7 @@
+{
+  "name": "ACTk.Examples.Runtime",
+  "references": [
+    "ACTk.Runtime"
+  ],
+  "allowUnsafeCode": true
+}

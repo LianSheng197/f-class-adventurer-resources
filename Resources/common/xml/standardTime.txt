@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<standardTime id="1" language="english" utc="-5" interstitialFilter="0"/>
+	<standardTime id="2" language="french" utc="+1" interstitialFilter="0"/>
+	<standardTime id="3" language="german" utc="+1" interstitialFilter="0"/>
+	<standardTime id="4" language="hindi" utc="+5:30" interstitialFilter="0"/>
+	<standardTime id="5" language="indonesian" utc="+7" interstitialFilter="0"/>
+	<standardTime id="6" language="italian" utc="+1" interstitialFilter="0"/>
+	<standardTime id="7" language="portuguese" utc="0" interstitialFilter="0"/>
+	<standardTime id="8" language="russian" utc="+3" interstitialFilter="0"/>
+	<standardTime id="9" language="spanish" utc="+1" interstitialFilter="0"/>
+	<standardTime id="10" language="thai" utc="+7" interstitialFilter="0"/>
+	<standardTime id="11" language="turkish" utc="+3" interstitialFilter="0"/>
+	<standardTime id="12" language="vietnamese" utc="+7" interstitialFilter="0"/>
+	<standardTime id="13" language="korean" utc="+9" interstitialFilter="0"/>
+	<standardTime id="14" language="chinese" utc="+8" interstitialFilter="0"/>
+	<standardTime id="15" language="chinese_Simple" utc="+8" interstitialFilter="0"/>
+	<standardTime id="16" language="japanese" utc="+9" interstitialFilter="1"/>
+</Root>

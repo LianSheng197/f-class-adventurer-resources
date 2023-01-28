@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+
+  <!--LOCAL-->
+  <Config ConfigName = "AOS_MASTER" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Master/aos/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Master/aos/1_00_00/ConnectConfig.xml" />
+  <Config ConfigName = "IOS_MASTER" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Master/ios/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Master/ios/1_00_00/ConnectConfig.xml" />
+  <Config ConfigName = "ONESTORE_MASTER" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Master/oneStore/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Master/oneStore/1_00_00/ConnectConfig.xml" />  
+ 
+  <!--KOREA LOCAL 0-->
+  <Config ConfigName = "KOREA_AOS_LOCAL_0" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_0/aos/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_0/aos/1_00_00/ConnectConfig.xml" />
+  <Config ConfigName = "KOREA_IOS_LOCAL_0" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_0/ios/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_0/ios/1_00_00/ConnectConfig.xml" />
+  <Config ConfigName = "KOREA_ONESTORE_LOCAL_0" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_0/oneStore/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_0/oneStore/1_00_00/ConnectConfig.xml" />
+
+  <!--KOREA LOCAL 1-->
+  <Config ConfigName = "KOREA_AOS_LOCAL_1" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_1/aos/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_1/aos/1_00_00/ConnectConfig.xml" />
+  <Config ConfigName = "KOREA_IOS_LOCAL_1" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_1/ios/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_1/ios/1_00_00/ConnectConfig.xml" />
+  <Config ConfigName = "KOREA_ONESTORE_LOCAL_1" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_1/oneStore/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Local_1/oneStore/1_00_00/ConnectConfig.xml" />
+
+  <!--KOREA TEST 0-->
+  <Config ConfigName = "KOREA_AOS_TEST_0" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_0/aos/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_0/aos/1_00_00/ConnectConfig.xml" />
+  <Config ConfigName = "KOREA_IOS_TEST_0" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_0/ios/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_0/ios/1_00_00/ConnectConfig.xml" />
+  <Config ConfigName = "KOREA_ONESTORE_TEST_0" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_0/oneStore/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_0/oneStore/1_00_00/ConnectConfig.xml" />
+  
+  <!--KOREA TEST 1-->
+  <Config ConfigName = "KOREA_AOS_TEST_1" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_1/aos/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_1/aos/1_00_00/ConnectConfig.xml" />
+  <Config ConfigName = "KOREA_IOS_TEST_1" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_1/ios/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_1/ios/1_00_00/ConnectConfig.xml" />
+  <Config ConfigName = "KOREA_ONESTORE_TEST_1" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_1/oneStore/1_00_00/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Test_1/oneStore/1_00_00/ConnectConfig.xml" />
+
+  <!--KOREA LIVE-->
+  <Config ConfigName = "KOREA_AOS_LIVE" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Live/aos/{0}_{1:00}_{2:00}/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Live/aos/{0}_{1:00}_{2:00}/ConnectConfig.xml" />
+  <Config ConfigName = "KOREA_IOS_LIVE" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Live/ios/{0}_{1:00}_{2:00}/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Live/ios/{0}_{1:00}_{2:00}/ConnectConfig.xml" />
+  <Config ConfigName = "KOREA_ONESTORE_LIVE" ConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Live/oneStore/{0}_{1:00}_{2:00}/EnvConfig.xml" ConnectConfigURL="https://ekgames-project-e.s3.amazonaws.com/projectE_KOR/Live/oneStore/{0}_{1:00}_{2:00}/ConnectConfig.xml" />
+
+</Root>

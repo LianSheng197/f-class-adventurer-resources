@@ -1,0 +1,69 @@
+
+quick_loading.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 238, 230
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 2, 148
+  size: 164, 89
+  orig: 164, 89
+  offset: 0, 0
+  index: -1
+light1_mini
+  rotate: true
+  xy: 106, 82
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+line1
+  rotate: false
+  xy: 2, 108
+  size: 102, 38
+  orig: 102, 38
+  offset: 0, 0
+  index: -1
+line2
+  rotate: false
+  xy: 2, 68
+  size: 102, 38
+  orig: 102, 38
+  offset: 0, 0
+  index: -1
+time_circle_base
+  rotate: false
+  xy: 168, 169
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+time_circle_on
+  rotate: false
+  xy: 68, 24
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+time_circle_on2
+  rotate: false
+  xy: 143, 104
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1

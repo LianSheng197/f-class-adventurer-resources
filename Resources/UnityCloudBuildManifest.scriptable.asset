@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 832168659, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: UnityCloudBuildManifest.scriptable
+  m_EditorClassIdentifier:
+  m_manifestJson: '{"cloudBuildTargetName":"live-googlestore-aab-hc-to-googleplay-1","buildNumber":48,"scmCommitId":"8ec65ab69d63a826e137d626f3cc9cde9eae1aba","buildStartTime":"2023-01-11 07:09:40 +0000","projectId":"ekgames-live/projecte","bundleId":"net.ekgames.fclasshero","scmBranch":10600,"unityVersion":"2021.3.16f1"}'

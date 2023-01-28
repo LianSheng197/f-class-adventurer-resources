@@ -1,0 +1,442 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1255319191865842
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4264453236426465}
+  - component: {fileID: 114545449889778319}
+  m_Layer: 0
+  m_Name: Prefab_CommonPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4264453236426465
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1255319191865842}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114545449889778319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1255319191865842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9c18d89f9a672b4f8d27e1a2a2156b7, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  material: {fileID: 2100000, guid: 9de03c6d337681a4cbef959559ce189a, type: 2}
+  mSprites:
+  - name: back
+    x: 0
+    y: 166
+    width: 62
+    height: 90
+    borderLeft: 30
+    borderRight: 30
+    borderTop: 60
+    borderBottom: 30
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bigbtn_blue
+    x: 192
+    y: 224
+    width: 38
+    height: 32
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 14
+    borderBottom: 18
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bigbtn_gray
+    x: 182
+    y: 148
+    width: 38
+    height: 32
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 14
+    borderBottom: 18
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bigbtn_green
+    x: 148
+    y: 108
+    width: 38
+    height: 32
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 14
+    borderBottom: 18
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bigbtn_orange
+    x: 150
+    y: 224
+    width: 38
+    height: 32
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 14
+    borderBottom: 18
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bigbtn_red
+    x: 146
+    y: 184
+    width: 38
+    height: 32
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 14
+    borderBottom: 18
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bigbtn_violet
+    x: 140
+    y: 144
+    width: 38
+    height: 32
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 14
+    borderBottom: 18
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bigbtn_yellow
+    x: 188
+    y: 188
+    width: 38
+    height: 32
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 14
+    borderBottom: 18
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: butt
+    x: 190
+    y: 116
+    width: 40
+    height: 28
+    borderLeft: 20
+    borderRight: 20
+    borderTop: 10
+    borderBottom: 18
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: category_off
+    x: 46
+    y: 80
+    width: 56
+    height: 32
+    borderLeft: 25
+    borderRight: 25
+    borderTop: 16
+    borderBottom: 16
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: category_on
+    x: 0
+    y: 116
+    width: 50
+    height: 46
+    borderLeft: 25
+    borderRight: 25
+    borderTop: 20
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: content_back
+    x: 176
+    y: 70
+    width: 33
+    height: 34
+    borderLeft: 16
+    borderRight: 16
+    borderTop: 17
+    borderBottom: 17
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: item_base_01
+    x: 134
+    y: 20
+    width: 38
+    height: 36
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 16
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: item_base_02
+    x: 134
+    y: 60
+    width: 38
+    height: 36
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 16
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: item_base_03
+    x: 106
+    y: 100
+    width: 38
+    height: 36
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 16
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: item_base_04
+    x: 98
+    y: 140
+    width: 38
+    height: 36
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 16
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: item_base_05
+    x: 66
+    y: 180
+    width: 38
+    height: 36
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 16
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: item_base_06
+    x: 66
+    y: 220
+    width: 38
+    height: 36
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 16
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: item_base_07
+    x: 108
+    y: 220
+    width: 38
+    height: 36
+    borderLeft: 20
+    borderRight: 18
+    borderTop: 16
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: kira_effect01
+    x: 224
+    y: 166
+    width: 7
+    height: 7
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: kira_effect02
+    x: 224
+    y: 155
+    width: 7
+    height: 7
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: kira_effect03
+    x: 224
+    y: 177
+    width: 7
+    height: 7
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: nameback
+    x: 108
+    y: 180
+    width: 34
+    height: 36
+    borderLeft: 2
+    borderRight: 32
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: nameline
+    x: 66
+    y: 170
+    width: 22
+    height: 6
+    borderLeft: 11
+    borderRight: 11
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: point
+    x: 106
+    y: 80
+    width: 22
+    height: 16
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sq
+    x: 0
+    y: 20
+    width: 42
+    height: 44
+    borderLeft: 21
+    borderRight: 21
+    borderTop: 24
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sq2
+    x: 54
+    y: 120
+    width: 40
+    height: 42
+    borderLeft: 20
+    borderRight: 20
+    borderTop: 20
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sq3
+    x: 46
+    y: 36
+    width: 40
+    height: 40
+    borderLeft: 20
+    borderRight: 20
+    borderTop: 20
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sq4
+    x: 90
+    y: 36
+    width: 40
+    height: 40
+    borderLeft: 20
+    borderRight: 20
+    borderTop: 20
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sq5
+    x: 0
+    y: 68
+    width: 42
+    height: 44
+    borderLeft: 21
+    borderRight: 21
+    borderTop: 24
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []

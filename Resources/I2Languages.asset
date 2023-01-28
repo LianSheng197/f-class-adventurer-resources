@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39a8090207dd5894ebb9c35747227f8e, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier:
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: App_Name
+      TermType: 0
+      Languages:
+      - F-Adventurer
+      - F급 용사
+      - F級冒險家
+      - F級冒険者
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: NativeLocalization/NSUserTrackingUsageDescription
+      TermType: 0
+      Languages:
+      - your data will be used to provide you a better and personalized ad experience
+      - '이 권한 요청에 대해 걱정하지 마세요!
+
+	당신에게 콘텐츠 속 맞춤형 광고를 제공하기 위해 동의를 요청하는 것입니다.'
+      - '請不要憂慮此權限申請
+
+	您的數據將用於為您提供更好的個性化廣告體驗.'
+      - 'この権限のリクエストについて心配しないでください！
+
+	コンテンツの中にカスタマイズされた広告を提供するために同意を求めることです。'
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: NativeLocalization/CFBundleName
+      TermType: 0
+      Languages:
+      - F-Adventurer
+      - F급 용사
+      - F級冒險家
+      - F級冒険者
+      Flags: 00000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: App_Name
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: Chinese (Traditional)
+      Code: zh-TW
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL:
+    Google_SpreadsheetKey:
+    Google_SpreadsheetName:
+    Google_LastUpdatedVersion:
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
